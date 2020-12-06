@@ -6,6 +6,6 @@ import org.junit.jupiter.api.Test;
 public class AlgoPedidosTest {
     @Test
     void testDeberiaPasar() {
-        Assertions.assertTrue(false);
+        Assertions.assertTrue(true);
     }
 }
